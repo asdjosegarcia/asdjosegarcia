@@ -7,6 +7,9 @@
 <a href="https://www.asdjosegarcia.com.ar/" target="blank">
   <img align="center" src="https://www.asdjosegarcia.com.ar/favicon.ico" alt="asdjosegarcia" style="width: 40px; height: auto;" />
 </a>
+  <a href="mailto:asdjosegarcia@gmail.com" target="blank">
+  <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="email" style="width: 40px; height: auto;" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
