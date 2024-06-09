@@ -4,13 +4,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/asdjosegarcia" target="_blank"> <!--  -->
-  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="width: 40px; height:auto;display: block;"/>
+  <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="width: 40px; height:auto;vertical-align: middle;"/>
 </a>
 <a href="https://www.asdjosegarcia.com.ar/" target="_blank">
-  <img  src="https://www.asdjosegarcia.com.ar/favicon.ico" alt="asdjosegarcia" style="width: 40px; height:auto;display: block;"/>
+  <img  src="https://www.asdjosegarcia.com.ar/favicon.ico" alt="asdjosegarcia" style="width: 40px; height:auto; vertical-align: middle;"/>
 </a>
 <a href="mailto:asdjosegarcia@gmail.com" target="_blank">
-  <img  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="email" style="width: 40px; height: auto;display: block;"/>
+  <img  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="email" style="width: 40px; height: auto;vertical-align: middle;;"/>
 </a>
 </p>
 
