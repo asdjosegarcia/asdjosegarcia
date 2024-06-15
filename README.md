@@ -10,7 +10,7 @@
   <img  src="./JG_basic-no-background.png" alt="asdjosegarcia" style="vertical-align: middle; margin-right: 20px; width: auto; height: 30px;"/>
 </a>
 <a href="mailto:asdjosegarcia@gmail.com" target="blank">
-  <img  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="email" style="width: 40px; height: auto;vertical-align: middle;;"/>
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" style="width: 40px; height: auto;vertical-align: middle;;"/>
 </a>
 </p>
 
