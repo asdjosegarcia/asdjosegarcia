@@ -7,7 +7,7 @@
   <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="width: 40px; height:auto;vertical-align: middle;"/>
 </a>
 <a href="https://www.asdjosegarcia.com.ar/" target="blank">
-  <img  src="./JG_basic-no-background.png" alt="asdjosegarcia" style="vertical-align: middle; margin-right: 20px; width: auto; height: 30px;"/>
+  <img  src="./Img/JG_basic-no-background.png" alt="asdjosegarcia" style="vertical-align: middle; margin-right: 20px; width: auto; height: 30px;"/>
 </a>
 <a href="mailto:asdjosegarcia@gmail.com" target="blank">
   <img  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" style="width: 40px; height: auto;vertical-align: middle;;"/>
